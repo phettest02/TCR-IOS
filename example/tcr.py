@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 print("You can generate token Here")
-print("http://101.255.95.249:6969")
+print("http://101.255.95.243.335:6969")
 print("CREATED BY TCR AND FIXED BY RIOBITHUB")
 
 import SOURCE
